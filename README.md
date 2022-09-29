@@ -15,3 +15,6 @@ Card de perfil
 * Situação atual
 * Universidade
 * Redes sociais
+
+## Resultado
+ ![alt](assets/print.png)
