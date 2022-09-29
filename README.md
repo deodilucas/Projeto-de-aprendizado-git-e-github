@@ -14,7 +14,4 @@ Card de perfil
 * Nome e idade
 * Situação atual
 * Universidade
-* Bio
 * Redes sociais
-
-## Resultado
