@@ -69,3 +69,9 @@ body {
     display: flex;
     gap: 25px;
 }
+
+#reference {
+    position: fixed;
+    top: 95vh;
+    left: 88vw;
+}
