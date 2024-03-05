@@ -18,11 +18,6 @@ Card de perfil
 
 ## Resultado
  ![alt](assets/print.png)
-
- [button text‌](https://eddymens.com)
- [Click me](http://www.google.com){: .btn}
- [button url="http://www.google.com"]
- <button name="button" onclick="http://www.google.com">Click me</button>
  
  ## Link para acesso (https://deodilucas.github.io/Projeto-de-aprendizado-git-e-github)
  <a href="https://deodilucas.github.io/Projeto-de-aprendizado-git-e-github/" target="_blank">Hello, world!</a>
