@@ -20,4 +20,4 @@ Card de perfil
  ![alt](assets/print.png)
 
  ## Link para acesso (https://deodilucas.github.io/Projeto-de-aprendizado-git-e-github)
- <a href="deodilucas.github.io/Projeto-de-aprendizado-git-e-github)https://deodilucas.github.io/Projeto-de-aprendizado-git-e-github" target="_blank">Hello, world!</a>
+ <a href="https://deodilucas.github.io/Projeto-de-aprendizado-git-e-github/" target="_blank">Hello, world!</a>
