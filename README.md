@@ -19,4 +19,4 @@ Card de perfil
 ## Resultado
  ![alt](assets/print.png)
 
- ## Link para acesso (https://deodilucas.github.io/Projeto-de-aprendizado-git-e-github/)
+ ## Link para acesso (https://deodilucas.github.io/Projeto-de-aprendizado-git-e-github)
