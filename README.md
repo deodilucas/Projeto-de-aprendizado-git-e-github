@@ -9,7 +9,7 @@ Card de perfil
 * HTML
 * CSS
 
-## O que deverá conteer no card?
+## O que deverá conter no card?
 * Foto de perfil
 * Nome e idade
 * Situação atual
